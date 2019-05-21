@@ -11,10 +11,9 @@ public class Fibbonaci
 		for(int i=2;i<=n;i++)
 		{
 			n3=n1+n2;
-			System.out.println(n1+"\n");
 			n1=n2;
 			n2=n3;
-			
+			System.out.println(n1+"\n");
 		}
 		
 		
