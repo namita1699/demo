@@ -43,4 +43,4 @@ public class target
 	}
 }
 
-//time complexity O(n)
+//time complexity O(n^2)
